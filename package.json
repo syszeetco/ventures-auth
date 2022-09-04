@@ -74,6 +74,7 @@
     "npm": "5.0.0"
   },
   "resolutions": {
-    "webpack-sources": "1.0.1"
+    "webpack-sources": "1.0.1",
+    "vue-loader-v16": "npm:vue-loader@^16.0.0-beta.8"
   }
 }
